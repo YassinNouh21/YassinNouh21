@@ -1,23 +1,99 @@
-<h1 align="center">Hi 👋, I'm Yassin Hashem</h1>
-<h3 align="center">A passionate Flutter Developer from Egypt</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yassin Hashem's GitHub Profile</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      line-height: 1.6;
+      color: #24292e;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h3 {
+      margin-bottom: 20px;
+    }
+    p {
+      margin-bottom: 16px;
+    }
+    hr {
+      border: 0;
+      height: 1px;
+      background-color: #e1e4e8;
+      margin: 30px 0;
+    }
+    ul {
+      padding-left: 25px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    .connect-section img {
+      margin-right: 10px;
+      vertical-align: middle;
+    }
+    .view-counter {
+      display: inline-block;
+      background-color: #f6f8fa;
+      border-radius: 6px;
+      padding: 5px 10px;
+      font-size: 14px;
+    }
+    .connect-section a {
+      display: inline-block;
+      margin-right: 20px;
+      margin-bottom: 10px;
+      text-decoration: none;
+      color: #0366d6;
+    }
+    .connect-section a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1 align="center">Hi 👋, I'm Yassin Hashem</h1>
+  <h3 align="center">A Software Engineer with ML engineering skills a passion for Open Source, and AI Tooling</h3>
+  
+  <ul>
+    <li><strong>💼 Currently contributing to major open-source Python projects:</strong>
+      <ul>
+        <li>🧠 <strong>LangChain</strong> and <strong>LangGraph</strong>: focused on agent orchestration and improving doc clarity</li>
+        <li>🔢 <strong>Pydantic</strong>: enhanced type-safe documentation for runtime coercion and advanced features</li>
+        <li>📊 <strong>Feast-dev</strong>: contributed the <strong>Milvus text search</strong> feature and improved Qdrant integration for large-scale document retrieval in LLM pipelines</li>
+      </ul>
+    </li>
+    <li><strong>🚀 My work is mostly around:</strong>
+      <ul>
+        <li>Enhancing developer experience through documentation</li>
+        <li>Adding support for vector databases and AI-ready workflows</li>
+        <li>Creating and refining LLM integrations</li>
+      </ul>
+    </li>
+    <li><strong>🌱 I'm also diving deeper into Machine Learning, Deep Learning, and Multivariable Calculus</strong></li>
+    <li><strong>👨‍💻 Explore my projects:</strong> <a href="https://github.com/YassinNouh21?tab=repositories">My GitHub Repositories</a></li>
+    <li><strong>📄 Learn more about me:</strong> <a href="https://shorturl.at/sxCDM">shorturl.at/sxCDM</a></li>
+  </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinnouh21&label=Profile%20views&color=0e75b6&style=flat" alt="yassinnouh21" /> </p>
+  <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassinnouh21" alt="yassinnouh21" /></a> </p>
-
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Multivariable Calculus.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YassinNouh21?tab=repositories](https://github.com/YassinNouh21?tab=repositories)
-
-- 📄 Know about my experiences [shorturl.at/sxCDM](shorturl.at/sxCDM)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/yassinnouh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yassinnouh21" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+  <h3 align="left">Connect with me:</h3>
+  <p align="left" class="connect-section">
+    <a href="https://codeforces.com/profile/yassinnouh21" target="blank">
+      <img align="center" src="/api/placeholder/40/30" alt="Codeforces" height="30" width="40" />
+      Codeforces
+    </a>
+    <a href="https://www.linkedin.com/in/yassin-hashem/" target="blank">
+      <img align="center" src="/api/placeholder/40/30" alt="LinkedIn" height="30" width="40" />
+      LinkedIn
+    </a>
+    <a href="https://x.com/yassinnouh_dev" target="blank">
+      <img align="center" src="/api/placeholder/40/30" alt="Twitter/X" height="30" width="40" />
+      Twitter/X
+    </a>
+  </p>
+</body>
+</html>
