@@ -4,55 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Yassin Hashem's GitHub Profile</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      line-height: 1.6;
-      color: #24292e;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1, h3 {
-      margin-bottom: 20px;
-    }
-    p {
-      margin-bottom: 16px;
-    }
-    hr {
-      border: 0;
-      height: 1px;
-      background-color: #e1e4e8;
-      margin: 30px 0;
-    }
-    ul {
-      padding-left: 25px;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    .connect-section img {
-      margin-right: 10px;
-      vertical-align: middle;
-    }
-    .view-counter {
-      display: inline-block;
-      background-color: #f6f8fa;
-      border-radius: 6px;
-      padding: 5px 10px;
-      font-size: 14px;
-    }
-    .connect-section a {
-      display: inline-block;
-      margin-right: 20px;
-      margin-bottom: 10px;
-      text-decoration: none;
-      color: #0366d6;
-    }
-    .connect-section a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Yassin Hashem</h1>
